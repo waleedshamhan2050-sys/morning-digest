@@ -1,0 +1,310 @@
+{
+ "about": "Synthetic sample export for Morning Digest testing — all people and chats are fictional.",
+ "chats": {
+  "list": [
+   {
+    "name": "فريق مشروع الهاكاثون",
+    "type": "public_supergroup",
+    "id": 1001,
+    "messages": [
+     {
+      "id": 1001,
+      "type": "message",
+      "date": "2026-10-19T09:40:00",
+      "date_unixtime": "1792402800",
+      "from": "Waleed Shamhan",
+      "from_id": "user964",
+      "text": "صباح الخير جميعاً، اليوم نبدأ نشتغل على فكرة الأسبوع الثالث من تحدي هاكتوبرفيست"
+     },
+     {
+      "id": 1002,
+      "type": "service",
+      "date": "2026-10-19T19:18:00",
+      "date_unixtime": "1792437480",
+      "from": "Sara Ahmed",
+      "from_id": "user954",
+      "text": "",
+      "actor": "Sara Ahmed",
+      "action": "join_group"
+     },
+     {
+      "id": 1003,
+      "type": "message",
+      "date": "2026-10-19T19:20:00",
+      "date_unixtime": "1792437600",
+      "from": "Waleed Shamhan",
+      "from_id": "user964",
+      "text": "أُعلن موضوع الأسبوع الثالث: Slow and Steady 🦥 نبني شيئاً بنماذج مفتوحة يكافئ الكسل"
+     },
+     {
+      "id": 1004,
+      "type": "message",
+      "date": "2026-10-19T19:23:00",
+      "date_unixtime": "1792437780",
+      "from": "Sara Ahmed",
+      "from_id": "user954",
+      "text": "أحلى موضوع! يعني الشغل الحقيقي إننا ما نشتغل 😄"
+     },
+     {
+      "id": 1005,
+      "type": "message",
+      "date": "2026-10-19T19:25:00",
+      "date_unixtime": "1792437900",
+      "from": "Omar Khalid",
+      "from_id": "user368",
+      "text": "I vote for the morning digest idea — the announcement literally suggests a local agent that reads group chats overnight"
+     },
+     {
+      "id": 1006,
+      "type": "message",
+      "date": "2026-10-19T19:31:00",
+      "date_unixtime": "1792438260",
+      "from": "Waleed Shamhan",
+      "from_id": "user964",
+      "text": [
+       {
+        "type": "plain",
+        "text": "نبني وكيل «ملخص الصباح»: يقرأ محادثات الليل ويلخّصها بـ "
+       },
+       {
+        "type": "bold",
+        "text": "Gemma 3"
+       },
+       {
+        "type": "plain",
+        "text": " على Ollama — كل شيء محلي على الجهاز"
+       }
+      ]
+     },
+     {
+      "id": 1007,
+      "type": "message",
+      "date": "2026-10-19T19:40:00",
+      "date_unixtime": "1792438800",
+      "from": "Sara Ahmed",
+      "from_id": "user954",
+      "text": "Privacy is the selling point here: private chats should never be uploaded to a cloud API just to get a summary"
+     },
+     {
+      "id": 1008,
+      "type": "message",
+      "date": "2026-10-19T20:02:00",
+      "date_unixtime": "1792440120",
+      "from": "Omar Khalid",
+      "from_id": "user368",
+      "text": "سأجهّز عيّنة محادثة وهمية (sample export) عشان نختبر الملخّص عليها الليلة"
+     },
+     {
+      "id": 1009,
+      "type": "message",
+      "date": "2026-10-19T20:15:00",
+      "date_unixtime": "1792440900",
+      "from": "Waleed Shamhan",
+      "from_id": "user964",
+      "text": "قررنا: التقديم يكون يوم الخميس، ومسودة منشور DEV تُراجع من الكل قبل النشر"
+     },
+     {
+      "id": 1010,
+      "type": "message",
+      "date": "2026-10-19T20:16:00",
+      "date_unixtime": "1792440960",
+      "from": "Sara Ahmed",
+      "from_id": "user954",
+      "text": "✅ Action item for me: I will draft the README tonight"
+     },
+     {
+      "id": 1011,
+      "type": "message",
+      "date": "2026-10-19T21:05:00",
+      "date_unixtime": "1792443900",
+      "from": "Omar Khalid",
+      "from_id": "user368",
+      "text": "جرّبت gemma3:1b، سريع لكن الملخص قصير بزيادة. نجرب النسخة الأكبر للنسخة النهائية؟"
+     },
+     {
+      "id": 1012,
+      "type": "message",
+      "date": "2026-10-19T21:10:00",
+      "date_unixtime": "1792444200",
+      "from": "Waleed Shamhan",
+      "from_id": "user964",
+      "text": "اتفقنا: النموذج الافتراضي يبقى gemma3، و1b تُذكر في التوثيق كخيار للتجربة السريعة"
+     },
+     {
+      "id": 1013,
+      "type": "service",
+      "date": "2026-10-19T21:12:00",
+      "date_unixtime": "1792444320",
+      "from": "Sara Ahmed",
+      "from_id": "user954",
+      "text": "",
+      "actor": "Sara Ahmed",
+      "action": "pin_message"
+     },
+     {
+      "id": 1014,
+      "type": "message",
+      "date": "2026-10-19T23:48:00",
+      "date_unixtime": "1792453680",
+      "from": "Sara Ahmed",
+      "from_id": "user954",
+      "text": "أنهيت قراءة معايير التحكيم: جودة الكتابة هي الأثقل وزناً، وبعدها الصلة بالموضوع"
+     },
+     {
+      "id": 1015,
+      "type": "message",
+      "date": "2026-10-20T06:50:00",
+      "date_unixtime": "1792479000",
+      "from": "Waleed Shamhan",
+      "from_id": "user964",
+      "text": "صباح الخير ☀️ أوّل ملخص صباح طلع شغّال فعلاً"
+     },
+     {
+      "id": 1016,
+      "type": "message",
+      "date": "2026-10-20T07:05:00",
+      "date_unixtime": "1792479900",
+      "from": "Omar Khalid",
+      "from_id": "user368",
+      "text": "ممتاز! نراجع مسودة التقديم اليوم بعد المحاضرة"
+     }
+    ]
+   },
+   {
+    "name": "أصدقاء الجامعة",
+    "type": "public_supergroup",
+    "id": 1002,
+    "messages": [
+     {
+      "id": 1017,
+      "type": "message",
+      "date": "2026-10-18T21:12:00",
+      "date_unixtime": "1792357920",
+      "from": "Ahmed Saleh",
+      "from_id": "user427",
+      "text": "شباب، محاضرة بكرة الساعة كم؟"
+     },
+     {
+      "id": 1018,
+      "type": "message",
+      "date": "2026-10-19T15:20:00",
+      "date_unixtime": "1792423200",
+      "from": "Sara Ahmed",
+      "from_id": "user954",
+      "text": "أرسلت لكم رابط تسجيل محاضرة اليوم في القناة"
+     },
+     {
+      "id": 1019,
+      "type": "message",
+      "date": "2026-10-19T19:45:00",
+      "date_unixtime": "1792439100",
+      "from": "Ahmed Saleh",
+      "from_id": "user427",
+      "text": "مباراة ريال مدريد الليلة الساعة 10، مين بيتابع؟ ⚽"
+     },
+     {
+      "id": 1020,
+      "type": "message",
+      "date": "2026-10-19T19:47:00",
+      "date_unixtime": "1792439220",
+      "from": "Khaled Omar",
+      "from_id": "user737",
+      "text": "أنا أكيد 🔥"
+     },
+     {
+      "id": 1021,
+      "type": "message",
+      "date": "2026-10-19T20:30:00",
+      "date_unixtime": "1792441800",
+      "from": "Sara Ahmed",
+      "from_id": "user954",
+      "text": "تنبيه مهم: محاضرة قواعد البيانات بكرة اتنقلت من الساعة 9 إلى الساعة 11"
+     },
+     {
+      "id": 1022,
+      "type": "message",
+      "date": "2026-10-19T20:33:00",
+      "date_unixtime": "1792441980",
+      "from": "Ahmed Saleh",
+      "from_id": "user427",
+      "text": "شكراً! كنت بروح على الموعد القديم وأضيّع المحاضرة"
+     },
+     {
+      "id": 1023,
+      "type": "message",
+      "date": "2026-10-19T21:15:00",
+      "date_unixtime": "1792444500",
+      "from": "Khaled Omar",
+      "from_id": "user737",
+      "text": "مين عنده ملخص محاضرة الشبكات؟ الامتحان قرّب"
+     },
+     {
+      "id": 1024,
+      "type": "message",
+      "date": "2026-10-19T21:20:00",
+      "date_unixtime": "1792444800",
+      "from": "Ahmed Saleh",
+      "from_id": "user427",
+      "text": "عندي الملخص، أرسله بكرة الصباح إن شاء الله"
+     },
+     {
+      "id": 1025,
+      "type": "message",
+      "date": "2026-10-19T22:05:00",
+      "date_unixtime": "1792447500",
+      "from": "Laila Hassan",
+      "from_id": "user993",
+      "text": "لا تنسوا: آخر موعد لتسليم واجب التشفير يوم الخميس"
+     },
+     {
+      "id": 1026,
+      "type": "message",
+      "date": "2026-10-19T22:07:00",
+      "date_unixtime": "1792447620",
+      "from": "Khaled Omar",
+      "from_id": "user737",
+      "text": "تمام، أبدأ فيه الليلة قبل ما يتراكم"
+     },
+     {
+      "id": 1027,
+      "type": "message",
+      "date": "2026-10-19T22:40:00",
+      "date_unixtime": "1792449600",
+      "from": "Ahmed Saleh",
+      "from_id": "user427",
+      "text": "",
+      "photo": "(file not included, change data exporting settings to download)",
+      "mime_type": "image/jpeg"
+     },
+     {
+      "id": 1028,
+      "type": "message",
+      "date": "2026-10-19T23:30:00",
+      "date_unixtime": "1792452600",
+      "from": "Laila Hassan",
+      "from_id": "user993",
+      "text": "تصبحون على خير 🌙"
+     },
+     {
+      "id": 1029,
+      "type": "message",
+      "date": "2026-10-20T06:15:00",
+      "date_unixtime": "1792476900",
+      "from": "Ahmed Saleh",
+      "from_id": "user427",
+      "text": "صباح الخير، أرسلت ملخص الشبكات هنا في المجموعة مثل ما وعدت"
+     },
+     {
+      "id": 1030,
+      "type": "message",
+      "date": "2026-10-20T06:40:00",
+      "date_unixtime": "1792478400",
+      "from": "Sara Ahmed",
+      "from_id": "user954",
+      "text": "وصل، شكراً لك 🙏"
+     }
+    ]
+   }
+  ]
+ }
+}
